@@ -175,7 +175,7 @@ section.repo-data {
 .repo-list li {
     width: 90%;
     margin: 1em 0;
-    border: 1px solid #f86d58;
+    border: 1px solid #000;
     padding: 0.5em;
 }
 
@@ -186,8 +186,9 @@ section.repo-data {
 }
 
 .repo-list h3:hover {
-    background-color: #eee9ff;
+    background-color: #4216d3;
     cursor: pointer;
+    color:white;
 }
 
 .repo-list p {
